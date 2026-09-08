@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carmen-corona-sobrino.github.io/al-folio/sitemap.xml
+Sitemap: https://carmen-corona-sobrino.github.io/sitemap.xml
