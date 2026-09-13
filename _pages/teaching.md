@@ -14,15 +14,15 @@ nav: false
 **2024–2025**
 
 - *Estructura Social Contemporánea* — Degree in Social Work (3rd year). 5 credits. Universitat de València.
-- *Introducción a la Sociología* — Degree in Political Science and Public Administration / Double Degree in Law and Political Science and Public Administration (1st year). 6 credits. Universitat de València.
-- *Métodos de investigación en Ciencias Sociales* — Degree in Criminology / Double Degree in Law and Criminology (1st year). 1 credit. Universitat de València.
+- *Introducción a la Sociología* — Degree in Political Science and Public Administration / Double Degree in Law and Political Science and Public Administration (1st year). Universitat de València.
+- *Métodos de investigación en Ciencias Sociales* — Degree in Criminology / Double Degree in Law and Criminology (1st year). Universitat de València.
 
 **2023–2024**
 
-- *Estructura Social Contemporánea* (3rd year). 5 credits. Universitat de València.
-- *Estructura Social y Educación* — Degree in Primary Education Teaching (1st year). 3 credits. Universitat de València.
+- *Estructura Social Contemporánea* (3rd year). Universitat de València.
+- *Estructura Social y Educación* — Degree in Primary Education Teaching (1st year). Universitat de València.
 
-**2022 – present**
+**2022 – 2026**
 
 - Collaborating Lecturer, *Métodos y Técnicas de Investigación Socioeducativa.* Universitat Oberta de Catalunya. (September 2022 – present)
 - Tutoring Lecturer, *Máster Universitario de Derechos Humanos, Democracia y Globalización.* Universitat Oberta de Catalunya. (October 2022 – present)
@@ -39,7 +39,7 @@ nav: false
 
 **2017–2018**
 
-- *Introducción a la Sociología.* 6 credits. Faculty of Social Sciences, Degree in Sociology / Degree in Political Science and Public Administration and Sociology, University of Valencia (Department of Sociology and Social Anthropology).
+- *Introducción a la Sociología.* Faculty of Social Sciences, Degree in Sociology / Degree in Political Science and Public Administration and Sociology, University of Valencia (Department of Sociology and Social Anthropology).
 
 **2016–2017**
 
@@ -47,15 +47,15 @@ nav: false
 
 ## Other Teaching and Training Activities
 
-**2025** — University Micro-credential in Responsible Research and Innovation (RRI): Training Change Agents to Strengthen Trust in Science (1st edition). Course taught: *Principios fundamentales de la RRI: responsabilidad, sostenibilidad, inclusión, transparencia y participación.* 7 hours, 2–4 December. Organised by Universitat de València. Funded by the European Union – Next Generation Funds, Government of Spain – Recovery, Transformation and Resilience Plan, Next Generation Funds in the Comunitat Valenciana.
+**2025** — Microcredencial Universitaria en Investigación e Innovación Responsable (RRI): Formando agentes de cambio para fortalecer la confianza en la Ciencia (1st edition). Course taught: *Principios fundamentales de la RRI: responsabilidad, sostenibilidad, inclusión, transparencia y participación.* 7 hours, 2–4 December. Organised by Universitat de València. Funded by the European Union – Next Generation Funds, Government of Spain – Recovery, Transformation and Resilience Plan, Next Generation Funds 
 
 **2024** — Online course (MOOC). *¿Cómo orientar la investigación para crear impacto socioeconómico?* DINA ITC Programme. Universitat Politècnica de València, July 2024.
 
-**2024** — Course. *Cómo integrar la aplicación socioeconómica de los conocimientos en la agenda de la comunidad científica.* Module: Responsible Research and Innovation. Universidad de Navarra, DINA ITC Programme. 3 April – 12 June 2024. [Video](https://youtu.be/wlcauxZ8_Ko)
+**2024** — Course. *Cómo integrar la aplicación socioeconómica de los conocimientos en la agenda de la comunidad científica.* Module: Responsible Research and Innovation. Universidad de Navarra, DINA ITC Programme. 3 April – 12 June 2024. 
 
-**2023** — Talk: *Mujeres, liderazgo y ciencia. Tomen asiento.* Summer Course *Liderazgo femenino: el poder transformador del siglo XXI*, Zaragoza, 26–27 October 2023. 1.5 teaching hours.
+**2023** — Talk: *Mujeres, liderazgo y ciencia. Tomen asiento.* Summer Course *Liderazgo femenino: el poder transformador del siglo XXI*, Zaragoza, 26–27 October 2023. 
 
-**2023** — Round table: *Sobre lo científico, lo político y la perspectiva de género.* Summer Course *Liderazgo femenino: el poder transformador del siglo XXI*, Zaragoza, 26–27 October 2023. 1.5 teaching hours.
+**2023** — Round table: *Sobre lo científico, lo político y la perspectiva de género.* Summer Course *Liderazgo femenino: el poder transformador del siglo XXI*, Zaragoza, 26–27 October 2023. 
 
 **2023** — Learning manual. *Carreras científicas e ITC.* DINA ITC Programme. Authors: Carolina Cañibano and Carmen Corona. [Video](https://youtu.be/kwJP5w5Do3I)
 
