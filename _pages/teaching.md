@@ -1,15 +1,15 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 nav: false
 ---
 
 ## University Teaching
 
-- *General Sociology* — Degree in Social Work. Universitat de València. 2025-2026
-- *Estructura Social Contemporánea* — Degree in Social Work. Universitat de València. 2023-2025
-- *Introducción a la Sociología* — Degree in Political Science and Public Administration / Double Degree in Law and Political Science and Public Administration. Universitat de València. 2023-2025, 2019-2020
+- **General Sociology** — Degree in Social Work. Universitat de València. 2025-2026
+- **Estructura Social Contemporánea** — Degree in Social Work. Universitat de València. 2023-2025
+- **Introducción a la Sociología** — Degree in Political Science and Public Administration / Double Degree in Law and Political Science and Public Administration. Universitat de València. 2023-2025, 2019-2020
 - *Estructura Social y Educación* — Degree in Primary Education Teaching. Universitat de València. 2023-2024
 - *Métodos de investigación en Ciencias Sociales* — Degree in Criminology / Double Degree in Law and Criminology. Universitat de València. 2025-2025
 - *Estructura Social y Sociología General. Degree in Political Science and Public Administration. Universitat de València. 2016-2017
