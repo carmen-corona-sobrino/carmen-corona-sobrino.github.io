@@ -17,3 +17,4 @@
 - Service and consultancy contracts. Contrato para la realización del informe Científicas en Cifras. Edición 2025 (sección cualitativa). Funded by: Fundación Española para la Ciencia y la Tecnología (FECYT). 01/09/2024 – 01/02/2025
 - Service and consultancy contracts. Contrato de servicios y asesoramiento para el desarrollo de indicadores de innovación e investigación responsable en el marco de RIS3. Funded by: Generalitat Valenciana – Consellería de Innovación, Universidades, Ciencia y Sociedad Digital
 - Service and consultancy contracts. Monitorización RRI de los Institutos Tecnológicos de la Comunidad Valenciana. Funded by: REDIT – Red de Institutos Tecnológicos de la Comunidad Valenciana, 2021
+- 
