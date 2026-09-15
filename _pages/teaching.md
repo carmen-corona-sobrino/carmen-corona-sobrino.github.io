@@ -24,7 +24,7 @@ nav: false
 - *Investigación social del turismo* — Double Degree in Tourism and Business Administration / Degree in Tourism. Universidad de Alicante 2020-2021
 
 
-## Other Teaching and Training Activities
+## Last Training Activities
 
 — Microcredencial Universitaria en Investigación e Innovación Responsable (RRI): Formando agentes de cambio para fortalecer la confianza en la Ciencia. Universitat de València. 2025
 
