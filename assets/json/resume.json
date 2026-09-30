@@ -1,38 +1,55 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carmen Corona Sobrino",
+    "label": []
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "email": "carmen.corona@cchs.csic.es",
+    "phone": []
+    "summary": []
+    "location": []
+      "address": []
+      "postalCode": []
+      "city": []
+      "countryCode": []
+      "region": []
     },
-    "profiles": []
+    "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "carmencorona",
+      "url": "https://www.linkedin.com/in/carmencorona/"
+    },
+    {
+      "network": "Google Scholar",
+      "username": "Carmen Corona Sobrino",
+      "url": "https://scholar.google.es/citations?hl=es&user=5mSdGwYAAAAJ"
+    },
+    {
+      "network": "ORCID",
+      "username": "0000-0001-5429-935X",
+      "url": "https://orcid.org/0000-0001-5429-935X"
+    }
+  ]
+}
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Instituto de Políticas y Bienes Públicos, IPP-CSIC",
+      "position": "Senior Researcher",
+      "location": []
+      "startDate": []
+      "endDate": []
+      "summary": []
+      "highlights": []
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": []
+      "position": []
+      "location": []
+      "startDate": []
+      "endDate": []
+      "summary": []
+      "highlights": []
     },
     {
       "name": "Kaiser Wilhelm Institute for Physics",
