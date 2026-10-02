@@ -1,12 +1,12 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 nav: true
 nav_order: 2
 dropdown: true
 children:
   - title: University Courses
-    permalink: /teaching/
+    permalink: /Teaching/
   - title: Training Beyond Academia
-    permalink: /training-beyond-academia/
+    permalink: /Training-beyond-academia/
 ---
