@@ -1,10 +1,4 @@
 
-Weighing whether to edit fields individually instead of replacing the file.
-Probablemente esa lista de _config.yml no controla las secciones de esta plantilla. La vía fiable es vaciarlas en assets/json/resume.json, que es donde viven los datos del CV. Una sección sin datos suele desaparecer.
-
-Este archivo vacía las siete que quieres quitar. También he dejado a cero Experience, Education, Awards e Interests, que ahora mismo contienen los datos de ejemplo de Einstein (el Nobel, Princeton...) y están visibles en tu web pública. Esas cuatro desaparecerán hasta que las rellenemos con tus datos reales.
-
-json
 {
   "basics": {
     "name": "Carmen Corona Sobrino",
