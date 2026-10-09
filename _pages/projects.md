@@ -24,4 +24,3 @@ nav: false
 - **iStoppFalls – ICT-based System to Predict & Prevent Falls.** Funded by: European Commission – FP7-ICT-2011.5.4, 2011–2014
 - **Portable Real Time Detection of Airborne Asbestos Fibres for Tradespersons.** Funded by: European Commission – FP7, 2010–2013
 
-</details>
