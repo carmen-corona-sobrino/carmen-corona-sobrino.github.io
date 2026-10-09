@@ -1,6 +1,15 @@
 cv:
   name: Carmen Corona Sobrino
+  label: "Senior Scientist (Científica Titular)"
+  email: "carmen.corona@cchs.csic.es"
+  location: "Madrid, Spain"
   image: ""
+
+  social_networks:
+    - network: LinkedIn
+      username: carmencorona
+    - network: ORCID
+      username: 0000-0001-5429-935X
 
   sections:
     Experience:
