@@ -71,6 +71,7 @@ cv:
         location: "Valencia"
         area: "Social Sciences"
         studyType: "PhD"
+        start_date: 2015
         end_date: 2021
 
       - institution: "University of Valencia"
