@@ -24,6 +24,13 @@ cv:
         end_date: 2023-11
         summary: "Margarita Salas Programme. Host group at TU Berlin: Social Studies of Science and Technology."
 
+      - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
+        position: "Research Technician"
+        location: "Valencia"
+        start_date: 2020-01
+        end_date: 2021-12
+        summary: "MAGGIE: Monitoring and Assessment Gender Gap in Events. Funded by the Open Society Initiative for Europe (OSIFE)."
+
       - company: "University of Alicante"
         position: "Associate Lecturer (Profesora Asociada)"
         location: "Alicante"
@@ -31,12 +38,11 @@ cv:
         end_date: 2021-11
         summary: "Faculty of Economics and Business Studies, Department of Sociology I."
 
-      - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
-        position: "Research Technician"
-        location: "Valencia"
-        start_date: 2020-01
-        end_date: 2021-12
-        summary: "MAGGIE: Monitoring and Assessment Gender Gap in Events. Funded by the Open Society Initiative for Europe (OSIFE)."
+     - company: "Universitat Oberta de Catalunya"
+        position: "Affiliated Teaching Staff"
+        location: "Online"
+        start_date: 2020-09
+        end_date: 2026
 
       - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
         position: "Pre-doctoral Researcher"
@@ -46,7 +52,7 @@ cv:
         summary: "Pre-doctoral research contract."
 
       - company: "Instituto de Biomecánica de Valencia (IBV), Universitat Politècnica de València"
-        position: "Senior Research Technician"
+        position: "Research Technician"
         location: "Valencia"
         start_date: 2012-11
         end_date: 2014-11
