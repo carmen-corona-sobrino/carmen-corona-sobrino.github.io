@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
+title: research
 nav: true
 nav_order: 1
 dropdown: true
 children:
   - title: Publications
-    permalink: /Publications/
+    permalink: /publications/
   - title: Research Projects
-    permalink: /Projects/
+    permalink: /projects/
 ---
