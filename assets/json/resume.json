@@ -1,9 +1,79 @@
+
+Weighing whether to edit fields individually instead of replacing the file.
+Probablemente esa lista de _config.yml no controla las secciones de esta plantilla. La vía fiable es vaciarlas en assets/json/resume.json, que es donde viven los datos del CV. Una sección sin datos suele desaparecer.
+
+Este archivo vacía las siete que quieres quitar. También he dejado a cero Experience, Education, Awards e Interests, que ahora mismo contienen los datos de ejemplo de Einstein (el Nobel, Princeton...) y están visibles en tu web pública. Esas cuatro desaparecerán hasta que las rellenemos con tus datos reales.
+
+json
+{
+  "basics": {
+    "name": "Carmen Corona Sobrino",
+    "label": "Investigadora en sociología de la ciencia",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
+Para aplicarlo:
+
+Ve a assets/json/resume.json y entra en modo edición (lápiz).
+Pulsa Cmd+A y borra todo.
+Pega el bloque de arriba.
+Guarda con “Commit changes...”.
+Comprueba en Actions que “Deploy site” termina en ✅ y recarga la página del CV con Cmd+Shift+R.
+Vaciar email, summary y profiles debería quitar Contact Information y Professional Summary. Los iconos de la portada no se ven afectados, porque salen de _data/socials.yml. Si alguna de esas dos secciones sigue apareciendo, dímelo y lo revisamos.
+
+Para rellenar Experience, Education, Awards e Interests con tus datos reales, pásame las fechas y los títulos de cada puesto, formación y premio, y te preparo el archivo completo.
+
+voy a ir rellenandolo sobre aquí porque tengo información que no me apetece perder
+
+Entendiendo la preferencia de conservar la información existente.
+Entendiendo la preferencia de conservar la información existente.
+Me parece bien, así no pierdes nada. Edita el resume.json que tienes ahora y no pegues el vacío que te di.
+
+Para quitar las secciones que no quieres, deja cada una como lista vacía:
+
+json
+"publications": [],
+"skills": [],
+"languages": [],
+"certificates": [],
+"projects": [],
+"references": [],
+Para Contact Information y Professional Summary, vacía email, summary y deja "profiles": [] dentro de basics.
+
+Mientras lo rellenas, ten en cuenta dos cosas:
+
+Los datos de Einstein siguen visibles en la página del CV mientras no los sustituyas, y la web está publicada. Si no quieres que nadie lo vea así, puedes ocultar la web (Settings > Pages > Unpublish site) hasta terminar.
+Un error de sintaxis rompe el despliegue. Cada elemento de una lista lleva coma detrás, salvo el último. Si “Deploy site” sale con ❌ tras guardar, casi seguro es una coma de más o de menos.
+Si quieres, pega aquí lo que vayas completando antes de guardarlo y reviso que el JSON esté bien formado.
+
 {
   "basics": {
     "name": "Carmen Corona Sobrino",
     "label": []
     "image": "",
-    "email": "carmen.corona@cchs.csic.es",
+    "email": "email",
     "phone": []
     "summary": []
     "location": []
@@ -235,4 +305,203 @@
       "endDate": "2018-01-01"
     }
   ]
+}
+
+Y quiero que me lo rellenes con esta experiencia profesional si te falta algún dato pregúntamelo no te lo inventes 
+
+21/01/2026 a actualmente    Científica Titular 
+Consejo Superior de Investigaciones Científicas 
+Instituto de Políticas y Bienes Públicos
+11/2023 a 01/2026    Ayudante Doctora
+Departamento Sociología y Antropología Social. Universidad de Valencia
+01/2022- 11/2023    Investigadora Postdoctoral
+Programa Margarita Salas. Universidad de Valencia y Technisque Universitat Berlin (Group: Social Studies for Science and Technology) 
+
+Septiembre 2020
+
+Noviembre 2021
+
+Profesora Asociada Facultad de Ciencias Económicas y Empresariales. Departamento Sociologia I. Universidad de Alicante.
+
+Enero 2020
+- Diciembre 2021
+
+Técnica de investigación MAGGIE Monitoring and Assessment Gender Gap in Events. Open Society Initiative for Europe (OSIFE) Instituto de gestión de la innovación y del conocimiento INGENIO (CSIC-UPV)
+
+Julio 2015 – 
+Julio 2019
+Contrato Pre-Doctoral de investigación. 
+Centro: Instituto de gestión de la innovación y del conocimiento INGENIO (CSIC-UPV)
+
+Noviembre 2012- Noviembre 2014
+Técnico superior de investigación. Área de Innovación Orientada por las Personas
+Centro: Instituto de Biomecánica de Valencia – Universidad Politécnica de Valencia. 
+
+Formación
+
+2021 Doctora en Ciencias Sociales. Universidad de Valencia. 
+
+2011-2012    Máster en Derechos Humanos, Paz y Desarrollo Sostenible 
+Universitat de València (España)
+
+Curso 2009-2011    Licenciatura en Comunicación Audiovisual
+Universidad de Salamanca – (España)
+Curso 2006-2011    Licenciatura en Sociología   
+Universidad de Salamanca – (España)
+
+Completando la educación con los títulos universitarios obtenidos.
+Tu versión no se habría desplegado: faltaban comas, había [] donde van textos y sobraba una llave }. Te dejo el archivo completo y válido, con tu experiencia y formación ya incluidas. Pégalo en assets/json/resume.json (Cmd+A, borrar, pegar) y guarda.
+
+json
+{
+  "basics": {
+    "name": "Carmen Corona Sobrino",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "carmencorona",
+        "url": "https://www.linkedin.com/in/carmencorona/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Carmen Corona Sobrino",
+        "url": "https://scholar.google.es/citations?hl=es&user=5mSdGwYAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-5429-935X",
+        "url": "https://orcid.org/0000-0001-5429-935X"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institute for Public Policies and Governance (IPP-CSIC), Spanish National Research Council (CSIC)",
+      "position": "Tenured Scientist (Científica Titular)",
+      "location": "",
+      "startDate": "2026-01-21",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Valencia",
+      "position": "Assistant Lecturer (Ayudante Doctora)",
+      "location": "",
+      "startDate": "2023-11",
+      "endDate": "2026-01",
+      "summary": "Department of Sociology and Social Anthropology.",
+      "highlights": []
+    },
+    {
+      "name": "University of Valencia and Technische Universität Berlin",
+      "position": "Postdoctoral Researcher",
+      "location": "",
+      "startDate": "2022-01",
+      "endDate": "2023-11",
+      "summary": "Margarita Salas Programme. Host group at TU Berlin: Social Studies of Science and Technology.",
+      "highlights": []
+    },
+    {
+      "name": "University of Alicante",
+      "position": "Associate Lecturer (Profesora Asociada)",
+      "location": "",
+      "startDate": "2020-09",
+      "endDate": "2021-11",
+      "summary": "Faculty of Economics and Business Studies, Department of Sociology I.",
+      "highlights": []
+    },
+    {
+      "name": "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)",
+      "position": "Research Technician",
+      "location": "",
+      "startDate": "2020-01",
+      "endDate": "2021-12",
+      "summary": "MAGGIE: Monitoring and Assessment Gender Gap in Events. Funded by the Open Society Initiative for Europe (OSIFE).",
+      "highlights": []
+    },
+    {
+      "name": "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)",
+      "position": "Pre-doctoral Researcher",
+      "location": "",
+      "startDate": "2015-07",
+      "endDate": "2019-07",
+      "summary": "Pre-doctoral research contract.",
+      "highlights": []
+    },
+    {
+      "name": "Instituto de Biomecánica de Valencia (IBV), Universitat Politècnica de València",
+      "position": "Senior Research Technician",
+      "location": "",
+      "startDate": "2012-11",
+      "endDate": "2014-11",
+      "summary": "People-Oriented Innovation area.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Valencia",
+      "location": "",
+      "area": "Social Sciences",
+      "studyType": "PhD",
+      "endDate": "2021",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "University of Valencia",
+      "location": "",
+      "area": "Human Rights, Peace and Sustainable Development",
+      "studyType": "Master's degree",
+      "startDate": "2011",
+      "endDate": "2012",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "University of Salamanca",
+      "location": "",
+      "area": "Audiovisual Communication",
+      "studyType": "Licenciatura",
+      "startDate": "2009",
+      "endDate": "2011",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "University of Salamanca",
+      "location": "",
+      "area": "Sociology",
+      "studyType": "Licenciatura",
+      "startDate": "2006",
+      "endDate": "2011",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
