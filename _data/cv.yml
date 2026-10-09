@@ -6,64 +6,75 @@ cv:
     Experience:
       - company: "Institute for Public Policies and Governance (IPP-CSIC), Spanish National Research Council (CSIC)"
         position: "Tenured Scientist (Científica Titular)"
+        location: "Madrid"
         start_date: 2026-01-21
         end_date: present
 
       - company: "University of Valencia"
         position: "Assistant Lecturer (Ayudante Doctora)"
+        location: "Valencia"
         start_date: 2023-11
         end_date: 2026-01
         summary: "Department of Sociology and Social Anthropology."
 
       - company: "University of Valencia and Technische Universität Berlin"
         position: "Postdoctoral Researcher"
+        location: "Valencia and Berlin"
         start_date: 2022-01
         end_date: 2023-11
         summary: "Margarita Salas Programme. Host group at TU Berlin: Social Studies of Science and Technology."
 
       - company: "University of Alicante"
         position: "Associate Lecturer (Profesora Asociada)"
+        location: "Alicante"
         start_date: 2020-09
         end_date: 2021-11
         summary: "Faculty of Economics and Business Studies, Department of Sociology I."
 
       - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
         position: "Research Technician"
+        location: "Valencia"
         start_date: 2020-01
         end_date: 2021-12
         summary: "MAGGIE: Monitoring and Assessment Gender Gap in Events. Funded by the Open Society Initiative for Europe (OSIFE)."
 
       - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
         position: "Pre-doctoral Researcher"
+        location: "Valencia"
         start_date: 2015-07
         end_date: 2019-07
         summary: "Pre-doctoral research contract."
 
       - company: "Instituto de Biomecánica de Valencia (IBV), Universitat Politècnica de València"
         position: "Senior Research Technician"
+        location: "Valencia"
         start_date: 2012-11
         end_date: 2014-11
         summary: "People-Oriented Innovation area."
 
     Education:
       - institution: "University of Valencia"
+        location: "Valencia"
         area: "Social Sciences"
         studyType: "PhD"
         end_date: 2021
 
       - institution: "University of Valencia"
+        location: "Valencia"
         area: "Human Rights, Peace and Sustainable Development"
         studyType: "Master's degree"
         start_date: 2011
         end_date: 2012
 
       - institution: "University of Salamanca"
+        location: "Salamanca"
         area: "Audiovisual Communication"
         studyType: "Licenciatura"
         start_date: 2009
         end_date: 2011
 
       - institution: "University of Salamanca"
+        location: "Salamanca"
         area: "Sociology"
         studyType: "Licenciatura"
         start_date: 2006
