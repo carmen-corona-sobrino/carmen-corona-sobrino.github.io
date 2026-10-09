@@ -42,7 +42,7 @@ cv:
         position: "Affiliated Teaching Staff"
         location: "Online"
         start_date: 2020-09
-        end_date: 2026
+        end_date: 2026-01
 
       - company: "Institute for Innovation and Knowledge Management (INGENIO, CSIC-UPV)"
         position: "Pre-doctoral Researcher"
@@ -75,13 +75,13 @@ cv:
       - institution: "University of Salamanca"
         location: "Salamanca"
         area: "Audiovisual Communication"
-        studyType: "Licenciatura"
+        studyType: "Bachelor's Degree"
         start_date: 2009
         end_date: 2011
 
       - institution: "University of Salamanca"
         location: "Salamanca"
         area: "Sociology"
-        studyType: "Licenciatura"
+        studyType: "Bachelor's Degree"
         start_date: 2006
         end_date: 2011
