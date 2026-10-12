@@ -18,6 +18,7 @@ DINA ITC Programme **[DINA ITC Programme](https://programa-dinaitc.csic.es/)** (
 - Course. *¿Cómo orientar la investigación para crear impacto socioeconómico?* Universidad Internacional Menéndez Pelayo (UIMP), Santander, 27 June – 1 July 2022. **[Link](http://www.uimp.es/agenda-link.html?id_actividad=654O&anyaca=2022-23)**
 - Learning manual. *Investigación e Innovación Responsable en la Transferencia de Conocimiento.* Authors: Corona Sobrino, C.; González Urango, H.; Ligardo Herrera, I. 2022.
 
+---
 
 - Online course (MOOC). *Introducción a las epistemologías para la investigación social.* Universitat de València. **[Playlist](https://youtube.com/playlist?list=PLiPJNI1xCP1ucmB2lztSGHAKT0SNHKTyH)**
 - Course. *Introducción al software NVivo.* INGENIO (CSIC-UPV).2021.
