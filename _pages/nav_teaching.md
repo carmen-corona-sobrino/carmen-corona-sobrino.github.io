@@ -7,6 +7,6 @@ dropdown: true
 children:
   - title: University Courses
     permalink: /teaching/
-  - title: Training Beyond Academia
+  - title: Other teaching activities
     permalink: /training-beyond-academia/
 ---
