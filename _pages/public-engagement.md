@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: public engagement 
+title: Public Engagement 
 permalink: /public-engagement/ 
 nav: false 
 ---
