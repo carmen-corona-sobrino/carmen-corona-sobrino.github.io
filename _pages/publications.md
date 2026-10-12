@@ -31,7 +31,7 @@ This work combines quantitative and qualitative approaches. Taken together, it f
 - **Journal article.** Marques, P.; Corona Sobrino, C.; González Urango, H.; García Melón, M. (2023) Experimental governance in 'trapped' regions? What can and cannot be done in Europe's periphery. *Ekonomiaz. Revista Vasca de Economía*, 104, pp. 36–55. **[Link](https://ideas.repec.org/a/ekz/ekonoz/2023202.html)**
 - **Journal article.** García Melón, M.; Gómez Navarro, T.; González Urango, H.; Corona Sobrino, C. (2022) Adapting RRI Public Engagement Indicators to the Spanish scientific and innovation context: A participatory methodology based on AHP and content analysis. *Central European Journal of Operations Research*, 30(4), pp. 1483–1512. Springer. **[Link](https://doi.org/10.1007/s10100-022-00796-3)**
 
-## Higher Education and Social Challenges
+## Higher Education
 
 - **Book chapter.** Gómez Ferri, J.; Corona Sobrino, C. (2024) Accidentes, catástrofes y desastres naturales y tecnológicos. Desigualdades sociales en la sociedad del riesgo. In *Vint-i-cinc anys de la Facultat de Ciències Socials. Transformacions, assoliments i reptes pendents*, pp. 27–42. Universitat de València.
 - **Book chapter.** Corona Sobrino, C.; Ligardo Herrera, I. E.; González Urango, H. (2023) La comprensión de conceptos estadísticos a través del uso de la red social Instagram. In *Perpetum mobile: Educación y construcción del Conocimiento*, pp. 145–163. Tirant lo Blanch Editorial.
