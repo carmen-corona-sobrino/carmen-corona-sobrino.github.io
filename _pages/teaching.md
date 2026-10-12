@@ -7,21 +7,22 @@ nav: false
 
 ## University Teaching
 
-- **General Sociology** — Degree in Social Work. Universitat de València. 2025-2026
-- **Estructura Social Contemporánea** — Degree in Social Work. Universitat de València. 2023-2025
-- **Introducción a la Sociología** — Degree in Political Science and Public Administration / Double Degree in Law and Political Science and Public Administration. Universitat de València. 2023-2025, 2019-2020
-- *Estructura Social y Educación* — Degree in Primary Education Teaching. Universitat de València. 2023-2024
-- *Métodos de investigación en Ciencias Sociales* — Degree in Criminology / Double Degree in Law and Criminology. Universitat de València. 2025-2025
-- *Estructura Social y Sociología General. Degree in Political Science and Public Administration. Universitat de València. 2016-2017
-- *Sociología de la Educación.* 6 credits. Faculty of Education, Degree in Education. Universitat de València. 2016-2017
+- **University of Valencia** (2016–2019, 2023–2026)
+    - *Estructura Social Contemporánea* - Grado en Trabajo Social
+    - *Introducción a la Sociología* - Grado en Ciencias Políticas y de la Administración Pública y Grado en Sociología
+    - *Estructura Social y Sociología General* - Grado en Ciencias Políticas y de la Administración Pública
+    - *Estructura Social y Educación* - Grado en Maestro de Educación Infantil
+    - *Sociología de la Educación* - Grado en Maestro en Educación Primaria e Infantil
+    - *Métodos de investigación en Ciencias Sociales* - Grado en Criminología
+    - *General Sociology* - Grado en Trabajo Social
+- **Open University of Catalonia (UOC)** (2022–present)
+    - Collaborating lecturer: *Métodos y Técnicas de Investigación Socioeducativa* - Grado en Educación Social
+    - Tutoring lecturer: *Máster Universitario de Derechos Humanos, Democracia y Globalización*
+- **University of Alicante** (2020–2021)
+    - *Métodos y Técnicas de Investigación Social y Turismo* - Máster de Planificación y Gestión del Turismo
+    - *Cambios sociales, culturales y educación* - Grado de Maestro en Educación Primaria
+    - *Investigación social del turismo* - Doble Grado en Turismo y Administración y Dirección de Empresas y Grado en Turismo
 
-
-- *Métodos y Técnicas de Investigación Socioeducativa.* Universitat Oberta de Catalunya. 2022 – present
-- Tutoring Lecturer, *Máster Universitario de Derechos Humanos, Democracia y Globalización.* Universitat Oberta de Catalunya. (October 2022-2026)
-
-- *Métodos y Técnicas de Investigación Social y Turismo* — Master's in Tourism Planning and Management. Universidad de Alicante. 2020-2021
-- *Cambios sociales, culturales y educación* — Degree in Primary Education Teaching. Universidad de Alicante. 2020-2021
-- *Investigación social del turismo* — Double Degree in Tourism and Business Administration / Degree in Tourism. Universidad de Alicante 2020-2021
 
 
 ## Last Training Activities
