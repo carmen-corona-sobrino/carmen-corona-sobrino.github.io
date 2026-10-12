@@ -5,6 +5,10 @@ permalink: /publications/
 nav: false
 ---
 
+My research has developed around three main areas: research evaluation, scientific and academic careers, and responsible research and innovation. A gender perspective is present throughout, and is especially central to my work on careers and inequalities in science. My professional experience in universities, and particularly my work as a lecturer, has also led me to publish on topics related to university education.
+
+This work combines quantitative and qualitative approaches. Taken together, it forms a coherent line of research in the social sciences, developed within the sociology of science and scientific knowledge and within science policy studies.
+
 ## Research Evaluation
 
 - **Book chapter.** Costas, R.; Corona Sobrino, C.; Robinson García, N. (2024) Could ORCID play a key role in meta-research? New analytical possibilities to study the dynamics of scientists. In *Handbook on Meta-Research*, pp. 215–235. Elgar Publishing. **[Link](https://www.e-elgar.com/shop/gbp/handbook-of-meta-research-9781839105715.html)**
