@@ -13,7 +13,7 @@ nav: false
 - **Journal article.** Cañibano Sánchez, C.; Corona Sobrino, C.; Molas Gallart, J.; Vilardell, I. (2017) Organisational dynamics in Spanish university departments: Strategic diversity and institutional rigidities. *Ekonomiaz. Revista Vasca de Economía*, 92, pp. 274–299. **[Link](https://www.euskadi.eus/web01-2reveko/es/k86aEkonomiazWar/ekonomiaz/abrirArticulo?idpubl=88&registro=16)**
 - **Thesis.** Corona Sobrino, C. (2021) Análisis de las dinámicas de producción de conocimiento científico en el Sistema de Evaluación de la Calidad de la Educación Superior y la Ciencia. Universitat de València. **[Link](https://roderic.uv.es/handle/10550/77921)**
 
-## Scientific Careers and Gendered Careers
+## Scientific Careers and Gender
 
 - **Journal article.** Robinson García, N.; Corona Sobrino, C.; Chinchilla Rodríguez, Z.; Torres Salinas, D.; Costas, R. (2025) The use of informetric methods to study diversity in the scientific workforce: A literature review. *Quantitative Science Studies*, 6, pp. 652–685. MIT Press. **[Link](https://doi.org/10.1162/qss_a_00367)**
 - **Journal article.** Corona Sobrino, C.; García Melón, M.; Poveda Bautista, R.; González Urango, H. (2020) Closing the gender gap at academic conferences: A tool for monitoring and assessing academic events. *PLOS ONE*, 15(12). **[Link](https://doi.org/10.1371/journal.pone.0243549)**
